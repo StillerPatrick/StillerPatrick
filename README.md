@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Neural Networks learning Laser-Wakefield Acceleration Simulations
+- 🔭 I’m currently working on neural networks learning laser wakefield acceleration simulations
 - 🌱 I’m currently learning chess ♟️
 - 💬 Ask me about installing horovod on Power9 architectures 😎
 - 📫 How to reach me: p.stiller@hzdr.de
