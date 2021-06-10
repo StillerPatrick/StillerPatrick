@@ -5,7 +5,7 @@
 - 📫 How to reach me: p.stiller@hzdr.de
 - ⚡ Fun fact: I like gifs
 
-### Illustation of my AI-Research
+### Illustation of my AI Research
 <img align="left" src="https://media.giphy.com/media/M6g4ioAhwkNFe/giphy.gif"/> 
 
 <!--
