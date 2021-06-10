@@ -1,6 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Neural Networks learning Laser-Wakefield Acceleration Simulations
+- 🌱 I’m currently learning chess ♟️
+- 💬 Ask me about installing horovod on Power9 architectures 😎
+- 📫 How to reach me: p.stiller@hzdr.de
+- ⚡ Fun fact: I like gifs
 
-
+### Illustation of my AI-Research
+<img align="left" src="https://media.giphy.com/media/M6g4ioAhwkNFe/giphy.gif"/> 
 
 <!--
 **StillerPatrick/StillerPatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
