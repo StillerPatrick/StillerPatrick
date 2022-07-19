@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<center>
+<div style="float:left;">
   
 [![stillerpatrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=stillerpatrick&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=stillerpatrick&count_private=true&show_icons=true)
-
 </center>
+</div>
