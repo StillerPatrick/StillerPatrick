@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<center>
+  
+[![stillerpatrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=stillerpatrick&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=stillerpatrick&count_private=true&show_icons=true)
+
+</center>
