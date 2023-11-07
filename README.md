@@ -1,12 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on neural networks learning laser wakefield acceleration simulations
-- 🌱 I’m currently learning chess ♟️
+- 🔭 I’m currently working at TraceTronic doing some AI stuff
+- 🌱 I’m currently learning langchain, llms and still working on my chess skills now (1400 elo)
 - 💬 Ask me about installing horovod on Power9 architectures 😎
-- 📫 How to reach me: p.stiller@hzdr.de
-- ⚡ Fun fact: I like gifs
+- 📫 How to reach me: stillerpatrick94@gmail.com
+- ⚡ Fun fact: Love to create poem with ChatGPT
 
-### Illustation of my AI Research
-<img align="left" src="https://media.giphy.com/media/M6g4ioAhwkNFe/giphy.gif"/> 
+
 
 <!--
 **StillerPatrick/StillerPatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +23,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![stillerpatrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=stillerpatrick&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=stillerpatrick&count_private=true&show_icons=true)
 
