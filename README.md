@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about business development and still working on my chess skills (1400 elo -> 1500)
 - 🥇 Installing horovod on Power9 architectures 😎
 - 📫 How to reach me: stillerpatrick94@gmail.com
-- ⚡ Fun fact: Love to create poem with ChatGPT
+- ⚡ Fun fact: Love to create memes
 
 
 
