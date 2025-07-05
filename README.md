@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working at TraceTronic doing some AI stuff
-- 🌱 I’m currently learning about business development and still working on my chess skills now (1400 elo -> 1500)
+- 🌱 I’m currently learning about business development and still working on my chess skills (1400 elo -> 1500)
 - 🥇 Installing horovod on Power9 architectures 😎
 - 📫 How to reach me: stillerpatrick94@gmail.com
 - ⚡ Fun fact: Love to create poem with ChatGPT
